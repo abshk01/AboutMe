@@ -18,7 +18,7 @@
     --bg-color: #fff;
     --snd-bg-color: #d5fdf9;
     --text-color: #000;
-    --main-color: #007f73;
+    --main-color: #753a88;
     
 
 }
@@ -49,7 +49,7 @@ section{
     align-items: center;
     justify-content: space-between;
     padding: 2rem 5%;
-    background: var(--main-color);
+    background-image: linear-gradient(to bottom right, #cc2b5e, #753a88);
     backdrop-filter: blur(10px);
     transition: all 0.5s ease;
 }
